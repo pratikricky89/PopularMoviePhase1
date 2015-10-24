@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\pre-dexed\debug\classes-56964ef400864f7187e7434420e03eb89ac223f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-c06c1eff2245750e8e47a596ec23164f2fd61512.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\pre-dexed\debug\classes-5d4a9c3cc64792b8c05138581db93145e8818a94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-65ded9511c1ee16f57f9450c4ec5a3e538465897.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pratik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Pratik\AndroidStudioProjects\PopularMovieApp1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-cc72b12fdec11c8c77f312f635f822e7e2514dfa.jar" />
+    </item>
+
+</items>
